@@ -1,0 +1,7 @@
+[user]
+	name = saif-eddine aghoukad
+	email = aghoukad@gmail.com
+[core]
+	editor = nano
+[init]
+	defaultBranch = main
